@@ -1,3 +1,4 @@
+// Function to toggle the menu
 function toggleMenu() {
   const menu = document.querySelector(".menu-links");
   const icon = document.querySelector(".hamburger-icon");
